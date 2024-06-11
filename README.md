@@ -1,3 +1,3 @@
 # ObstacleGame
 
-It is played by a surfer trying to avoid the sharks coming to him
+It is played by a basketball legend Michael Jordan trying to prevent Kobe Bryant from blocking him on his way to the basket
